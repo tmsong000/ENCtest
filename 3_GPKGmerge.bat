@@ -12,4 +12,3 @@ for %%A in (*.gpkg) do (
 )
 
 echo All processing completed.
-pause
